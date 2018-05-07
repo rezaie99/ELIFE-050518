@@ -3,8 +3,6 @@ import os
 import numpy as np
 import qualityTdModel
 import qualityFdModel
-import hrFDModel
-import hrTDModel
 
 import qualityFrequencyDependentModel
 import powerSpec as pspec
